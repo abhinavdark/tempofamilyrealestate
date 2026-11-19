@@ -40,3 +40,8 @@ generate_data.py
 test_responsive.js
 capture_screenshots.js
 create_preview_pdf.js
+create_final_preview_pdf.js
+run_pagespeed_vercel.js
+test_psi_script.js
+lighthouse_*.report.*
+screenshots/pagespeed_*_mobile.png
